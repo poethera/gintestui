@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Gin Test Client",
+  "name": "Gin Test React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
